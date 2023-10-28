@@ -1,2 +1,2 @@
 # Chit-Chat-Shubhangi
-Real time chatting application using React and Socket.io
+Real time chatting application using React.js, Node.js and Socket.io
